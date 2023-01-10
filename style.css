@@ -1,0 +1,58 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.list-items {
+    text-align: center;
+}
+.recipe-link {
+    list-style: none;
+    display: inline;
+    margin: 10px 20px;
+}
+
+a{
+    text-decoration: none;
+    color:crimson;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+a:hover {
+    background-color:crimson;
+    color: white;
+    border: crimson;
+}
+
+
+.element {
+    display: inline-block;
+}
+
+.index-img{
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.main-img {
+    display:block;
+    margin: 0 auto;
+    border: gray 7px solid;
+}
+
+.container {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+
+}
